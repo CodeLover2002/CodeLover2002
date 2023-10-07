@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Adrija Ray</h1>
 <h3 align="center">An enthusiastic learner from India.</h3>
-<p><img align="left" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif"><img align="right" alt="Coding" width="500" height="300" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif"></p>
+<p><img align="left" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif"><img align="right" alt="Coding" width="400" height="300" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif"></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codelover2002" alt="codelover2002" /></a> </p>
 
